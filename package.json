@@ -1,0 +1,15 @@
+{
+  "name": "3d",
+  "version": "0.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jan Sedivy <jansedivy@abdoc.net>",
+  "license": "ISC",
+  "dependencies": {
+    "superagent": "~0.15.7",
+    "gl-matrix": "~2.0.0"
+  }
+}
